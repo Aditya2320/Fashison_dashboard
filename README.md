@@ -14,3 +14,4 @@ Amazon, Flipkart and Myntra channels are max contributing (~80)
 
 # Final Conclusion to improve Fashion store sales:
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+![image](https://github.com/Aditya2320/Fashison_dashboard/assets/85891348/0f5df1ca-55f2-4534-b0be-9c50bf724f33)
